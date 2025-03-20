@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matrix
-- 👀 I’m interested in Java Python Golang
-- 🌱 I’m currently learning Dubbo
+- 👀 I’m interested in Java, Python and Golang
+- 🌱 I’m currently learning Dify(A Ai Development Platform)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
